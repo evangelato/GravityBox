@@ -429,6 +429,7 @@ MonoBehaviour:
   controller: {fileID: 806912974}
   runSpeed: 40
   animator: {fileID: 806912976}
+  ridigBody2D: {fileID: 806912972}
 --- !u!114 &806912974
 MonoBehaviour:
   m_ObjectHideFlags: 0
